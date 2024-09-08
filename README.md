@@ -42,23 +42,20 @@ git clone https://github.com/riyazpt/markdown-blog.git
 4. Set up environment variables:
 
 =======
-`bash
-    git clone https://github.com/riyazpt/markdown-blog.git
-    `
 
-2. Navigate to the project directory:
+1.  `bash git clone https://github.com/riyazpt/markdown-blog.git`
 
-   ```bash
-   cd markdown-blog
-   ```
+2.  Navigate to the project directory:
 
-3. Install dependencies:
+    ```bash
+    cd markdown-blog
+    ```
 
-   ```bash
-   npm install
-   ```
+3.  Install dependencies:
 
-4. Set up environment variables:
+    `bash npm install`
+
+4.  Set up environment variables:
 
 - Create a `.env` file in the root directory of the project.
 - Add the following environment variables:
@@ -82,13 +79,14 @@ npm start
    http://localhost:3000
    ```
 
-   =======
-   `bash
- npm start
- `
+   `bash npm start`
 
 7. Access the application in your browser:
 
    ```
    http://localhost:3000
    ```
+
+```
+
+```
