@@ -2,12 +2,9 @@
 
 This project is a Markdown blog post application built with Express.js, MongoDB, and Tailwind CSS.
 
-<<<<<<< HEAD
 ![Blog Home Page Screenshot](public/home.png)
 ![Blog New Page Page Screenshot](public/home.png)
 
-=======
->>>>>>> 54b30321a123cc01ca62587d5ab21adadbc9245c
 ## Features
 
 - Allows users to create, edit, and delete Markdown blog posts.
@@ -27,9 +24,10 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 <<<<<<< HEAD
-   ```bash
-   git clone https://github.com/riyazpt/markdown-blog.git
-   ```
+
+```bash
+git clone https://github.com/riyazpt/markdown-blog.git
+```
 
 2. Navigate to the project directory:
 
@@ -46,58 +44,59 @@ Make sure you have the following installed:
 4. Set up environment variables:
 
 =======
-    ```bash
+`bash
     git clone https://github.com/riyazpt/markdown-blog.git
-    ```
+    `
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd markdown-blog
-    ```
+   ```bash
+   cd markdown-blog
+   ```
 
 3. Install dependencies:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 4. Set up environment variables:
-   
->>>>>>> 54b30321a123cc01ca62587d5ab21adadbc9245c
-   - Create a `.env` file in the root directory of the project.
-   - Add the following environment variables:
 
-     ```
-     PORT=3000
-     MONGODB_URI=mongodb://localhost:27017/markdown-blog
-     ```
+> > > > > > > 54b30321a123cc01ca62587d5ab21adadbc9245c
 
-     Adjust the `PORT` and `MONGODB_URI` values as needed.
+- Create a `.env` file in the root directory of the project.
+- Add the following environment variables:
+
+  ```
+  PORT=3000
+  MONGODB_URI=mongodb://localhost:27017/markdown-blog
+  ```
+
+  Adjust the `PORT` and `MONGODB_URI` values as needed.
 
 5. Start the server:
 
 <<<<<<< HEAD
-   ```bash
-   npm start
-   ```
+
+```bash
+npm start
+```
 
 6. Access the application in your browser:
 
    ```
    http://localhost:3000
    ```
-=======
-    ```bash
+
+   =======
+   `bash
     npm start
-    ```
+    `
 
-6. Access the application in your browser:
+7. Access the application in your browser:
 
-    ```
-    http://localhost:3000
-    ```
+   ```
+   http://localhost:3000
+   ```
 
-
-
->>>>>>> 54b30321a123cc01ca62587d5ab21adadbc9245c
+> > > > > > > 54b30321a123cc01ca62587d5ab21adadbc9245c
