@@ -23,8 +23,6 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 
-<<<<<<< HEAD
-
 ```bash
 git clone https://github.com/riyazpt/markdown-blog.git
 ```
@@ -62,8 +60,6 @@ git clone https://github.com/riyazpt/markdown-blog.git
 
 4. Set up environment variables:
 
-> > > > > > > 54b30321a123cc01ca62587d5ab21adadbc9245c
-
 - Create a `.env` file in the root directory of the project.
 - Add the following environment variables:
 
@@ -75,8 +71,6 @@ git clone https://github.com/riyazpt/markdown-blog.git
   Adjust the `PORT` and `MONGODB_URI` values as needed.
 
 5. Start the server:
-
-<<<<<<< HEAD
 
 ```bash
 npm start
@@ -90,13 +84,11 @@ npm start
 
    =======
    `bash
-    npm start
-    `
+ npm start
+ `
 
 7. Access the application in your browser:
 
    ```
    http://localhost:3000
    ```
-
-> > > > > > > 54b30321a123cc01ca62587d5ab21adadbc9245c
