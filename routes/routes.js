@@ -10,12 +10,12 @@ appRouter.get('/new', (req, res) => {
     )
 })
 appRouter.get('/edit/:id', async (req, res) => {
-    console.log('xcvxcv');
+
     const article = await Article.findById(req.params.id)
     res.render('articles/edit', { article: article })
 })
 appRouter.put('/:id', async (req, res, next) => {
-    console.log('nooooooooo');
+
     req.article = await Article.findById(req.params.id)
 
     let article = req.article
